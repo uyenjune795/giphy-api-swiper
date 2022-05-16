@@ -28,3 +28,14 @@ input {
 .swiper-wrapper {
   background: green;
 }
+
+.swiper-slide {
+  color: white;
+  font-size: 4em;
+  background: blue;
+}
+
+.swiper-slide video {
+  object-fit: cover;
+  width: 100%;
+}
